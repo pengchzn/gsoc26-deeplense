@@ -1,0 +1,13 @@
+test1/dataset/
+test5/dataset/
+test1/artifacts/
+test5/artifacts/
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+tmp/
+
+*.pt
+*.pth
